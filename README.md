@@ -2,8 +2,8 @@
 By using SQL
 The tables is created in sql workbench and values are inserted,from the given dataset we to find the given inisghts.
 
-Find the 5 oldest users of the Instagram from the database provided
-Find the users who have never posted a single photo on Instagra.
+Find the 5 oldest users of the Instagram from the database provided.
+Find the users who have never posted a single photo on Instagram
 Identify the winner of the contest and provide their details to the team
 Identify and suggest the top 5 most commonly used hashtags on the platform
 What day of the week do most users register on? Provide insights on when to schedule an ad campaign
